@@ -1,4 +1,4 @@
-# HumbleBundle Key Exporter
+# HumbleBundle Title List Exporter
 
 A bookmarklet to export [your HumbleBundle game titles](https://www.humblebundle.com/home/keys) that will download that data in a formatted text file. This is meant for personal use.
 
